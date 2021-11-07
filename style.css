@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+    body {
+        background-color: linen;
+      }
+      h1 {
+        color: maroon;
+        margin-left: 40px;
+      }
+      h2{color:blue;
+    margin-left: 40px;}
+    h3{color:blue;
+        margin-left: 40px;}
+        h4{color:blue;
+            margin-left: 40px;}
+            h5{color:blue;
+                margin-left: 40px;}
